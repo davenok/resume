@@ -1,5 +1,6 @@
-Instructions for Capstone Project 1 - Online Resume
-Project Specifications
+# Instructions for Capstone Project 1 - Online Resume
+## Project Specifications
+
 Create an HTML file named index.html.
 
 Use the <!DOCTYPE html> declaration at the beginning of the file to indicate that it's an HTML document.
